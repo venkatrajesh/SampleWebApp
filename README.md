@@ -1,0 +1,2 @@
+# SampleWebApp
+JNDI,JDBC
